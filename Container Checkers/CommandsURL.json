@@ -1,0 +1,22 @@
+{
+    "IsPublic": true,
+    "IsFinal": false,
+    "Priority": 1.0,
+    "Input": {
+        "Title": "Send",
+        "ID": "",
+        "Source": "Message",
+        "Agent": "Chatter",
+        "Message": "Команды на GitHub: https://github.com/HomelessSkin/All-Commands/blob/main/AllCommands.json",
+        "Point": 0,
+        "Spawn": 0
+    },
+    "Keys": [
+        {
+            "Cuts": [
+                "список",
+                "команд"
+            ]
+        }
+    ]
+}
