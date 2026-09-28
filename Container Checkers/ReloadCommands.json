@@ -1,0 +1,22 @@
+{
+    "IsPublic": false,
+    "IsFinal": false,
+    "Priority": 1.0,
+    "Input": {
+        "Title": "Reload Voice Commands",
+        "ID": "",
+        "Source": "Voice",
+        "Agent": "Speaker",
+        "Message": "",
+        "Point": 0,
+        "Spawn": 0
+    },
+    "Keys": [
+        {
+            "Cuts": [
+                "перезагрузить",
+                "команды"
+            ]
+        }
+    ]
+}

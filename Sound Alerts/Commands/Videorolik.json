@@ -1,0 +1,28 @@
+{
+    "IsPublic": true,
+    "IsFinal": true,
+    "Input": {
+        "Title": "Sound Alert",
+        "ID": "",
+        "Source": "Message",
+        "Agent": "Chatter",
+        "Message": "",
+        "Point": 0,
+        "Spawn": 0
+    },
+    "Folder": "Sounds/Druzhko",
+    "Keys": [
+        {
+            "Cuts": [
+                "шуточный",
+                "видеоролик"
+            ]
+        }
+    ],
+    "Clips": [
+        {
+            "Volume": 0.5,
+            "Path": "v-moej-kollekcii"
+        }
+    ]
+}

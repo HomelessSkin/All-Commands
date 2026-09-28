@@ -1,0 +1,29 @@
+{
+    "IsPublic": true,
+    "IsFinal": true,
+    "Input": {
+        "Title": "Sound Alert",
+        "ID": "",
+        "Source": "Message",
+        "Agent": "Chatter",
+        "Message": "",
+        "Point": 0,
+        "Spawn": 0
+    },
+    "Folder": "Sounds/Druzhko",
+    "Keys": [
+        {
+            "Cuts": [
+                "не",
+                "хочу",
+                "банан"
+            ]
+        }
+    ],
+    "Clips": [
+        {
+            "Volume": 0.5,
+            "Path": "ja-ne-hochu-jetot-banan"
+        }
+    ]
+}

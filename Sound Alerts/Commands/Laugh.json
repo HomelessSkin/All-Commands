@@ -1,0 +1,39 @@
+{
+    "IsPublic": true,
+    "IsFinal": true,
+    "Input": {
+        "Title": "Sound Alert",
+        "ID": "",
+        "Source": "Message",
+        "Agent": "Chatter",
+        "Message": "",
+        "Point": 0,
+        "Spawn": 0
+    },
+    "Folder": "Sounds/Laughs",
+    "Keys": [
+        {
+            "Cuts": [
+                "смех"
+            ]
+        }
+    ],
+    "Clips": [
+        {
+            "Volume": 1.0,
+            "Path": "laugh"
+        },
+        {
+            "Volume": 0.5,
+            "Path": "kekww"
+        },
+        {
+            "Volume": 0.5,
+            "Path": "smekh-povara"
+        },
+        {
+            "Volume": 0.5,
+            "Path": "smekh-kha"
+        }
+    ]
+}

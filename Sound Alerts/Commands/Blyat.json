@@ -1,0 +1,40 @@
+{
+    "IsPublic": true,
+    "IsFinal": true,
+    "Input": {
+        "Title": "Sound Alert",
+        "ID": "",
+        "Source": "Message",
+        "Agent": "Chatter",
+        "Message": "",
+        "Point": 0,
+        "Spawn": 0
+    },
+    "Folder": "Sounds/Blyat",
+    "Keys": [
+        {
+            "Cuts": [
+                "да",
+                "блять"
+            ]
+        }
+    ],
+    "Clips": [
+        {
+            "Volume": 0.5,
+            "Path": "alina-blyat"
+        },
+        {
+            "Volume": 0.5,
+            "Path": "ai-blyat"
+        },
+        {
+            "Volume": 0.5,
+            "Path": "da-blyat-ya-ne-mogu"
+        },
+        {
+            "Volume": 0.4,
+            "Path": "faaah"
+        }
+    ]
+}

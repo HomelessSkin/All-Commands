@@ -1,0 +1,68 @@
+{
+    "IsPublic": true,
+    "IsFinal": true,
+    "Input": {
+        "Title": "Sound Alert",
+        "ID": "",
+        "Source": "Message",
+        "Agent": "Chatter",
+        "Message": "",
+        "Point": 0,
+        "Spawn": 0
+    },
+    "Folder": "Sounds/Sounds",
+    "Keys": [
+        {
+            "Cuts": [
+                "звук",
+                "звука"
+            ]
+        }
+    ],
+    "Clips": [
+        {
+            "Volume": 1.0,
+            "Path": "foliage-rustle"
+        },
+        {
+            "Volume": 1.0,
+            "Path": "sky"
+        },
+        {
+            "Volume": 0.5,
+            "Path": "epic-cloud"
+        },
+        {
+            "Volume": 0.5,
+            "Path": "shot_1"
+        },
+        {
+            "Volume": 0.5,
+            "Path": "fog_horn"
+        },
+        {
+            "Volume": 0.5,
+            "Path": "fog-horn-2"
+        },
+        {
+            "Volume": 1.0,
+            "Path": "moving-bushes-2"
+        },
+        {
+            "Volume": 1.0,
+            "Path": "chirik"
+        },
+        {
+            "Volume": 1.0,
+            "Path": "slap"
+        },
+        {
+            "Volumee": 1.0,
+            "Path": "stuk-v-dver"
+        },
+        {
+            "Volumee": 0.5,
+            "Path": "discord-notification"
+        }
+    ]
+}

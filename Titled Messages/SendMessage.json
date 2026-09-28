@@ -1,0 +1,15 @@
+{
+    "IsPublic": false,
+    "IsFinal": false,
+    "Priority": 1.0,
+    "Input": {
+        "Title": "Send",
+        "ID": "",
+        "Source": "Message",
+        "Agent": "Chatter",
+        "Message": "",
+        "Point": 0,
+        "Spawn": 0
+    },
+    "Title": "отправить"
+}
