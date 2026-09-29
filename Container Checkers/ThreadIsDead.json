@@ -1,0 +1,22 @@
+{
+    "IsPublic": true,
+    "IsFinal": false,
+    "Priority": 1.0,
+    "Input": {
+        "Title": "Send",
+        "ID": "",
+        "Source": "Message",
+        "Agent": "Chatter",
+        "Message": "CrabPls CrabPls CrabPls CrabPls CrabPls CrabPls CrabPls CrabPls",
+        "Point": 0,
+        "Spawn": 0
+    },
+    "Keys": [
+        {
+            "Cuts": [
+                "тред",
+                "умер"
+            ]
+        }
+    ]
+}
