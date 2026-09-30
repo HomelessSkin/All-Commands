@@ -1,9 +1,8 @@
 {
-    "IsPublic": false,
-    "IsFinal": false,
-    "Priority": 1.0,
+    "IsPublic": true,
+    "IsFinal": true,
     "Input": {
-        "Title": "Clip",
+        "Title": "Sound Alert",
         "ID": "",
         "Source": "Message",
         "Agent": "Chatter",
@@ -11,6 +10,7 @@
         "Point": 0,
         "Spawn": 0
     },
+    "Folder": "Sounds",
     "Keys": [
         {
             "Cuts": [
@@ -35,6 +35,12 @@
                 "зайбись",
                 "чётко"
             ]
+        }
+    ],
+    "Clips": [
+        {
+            "Volume": 0.5,
+            "Path": "chiotko"
         }
     ]
 }
