@@ -1,0 +1,29 @@
+{
+    "IsPublic": true,
+    "IsFinal": true,
+    "Input": {
+        "Title": "Sound Alert",
+        "ID": "",
+        "Source": "Message",
+        "Agent": "Chatter",
+        "Message": "",
+        "Point": 0,
+        "Spawn": 0
+    },
+    "Folder": "Sounds",
+    "Keys": [
+        {
+            "Cuts": [
+                "что",
+                "здесь",
+                "происходит"
+            ]
+        }
+    ],
+    "Clips": [
+        {
+            "Volume": 1.0,
+            "Path": "chto-proishodit"
+        }
+    ]
+}
