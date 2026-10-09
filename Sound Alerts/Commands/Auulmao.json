@@ -1,0 +1,29 @@
+{
+    "IsPublic": true,
+    "IsFinal": true,
+    "Input": {
+        "Title": "Sound Alert",
+        "ID": "",
+        "Source": "Message",
+        "Agent": "Jester_On_Line",
+        "Message": "",
+        "Point": 0,
+        "Spawn": 0
+    },
+    "Folder": "Sounds",
+    "Keys": [
+        {
+            "Cuts": [
+                "auu",
+                "lmao"
+            ]
+        }
+
+    ],
+    "Clips": [
+        {
+            "Volume": 0.5,
+            "Path": "auulmao"
+        }
+    ]
+}
