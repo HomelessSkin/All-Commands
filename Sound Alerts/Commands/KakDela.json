@@ -23,6 +23,10 @@
         {
             "Volume": 0.5,
             "Path": "kakdela"
+        },
+        {
+            "Volume": 1.0,
+            "Path": "kak-delya"
         }
     ]
 }
