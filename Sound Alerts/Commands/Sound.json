@@ -63,6 +63,14 @@
         {
             "Volume": 0.5,
             "Path": "discord-notification"
+        },
+        {
+            "Volume": 0.5,
+            "Path": "minecraft-zombie"
+        },
+        {
+            "Volume": 0.5,
+            "Path": "creeper-explosion"
         }
     ]
 }
