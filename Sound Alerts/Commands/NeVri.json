@@ -1,0 +1,35 @@
+{
+    "IsPublic": true,
+    "IsFinal": true,
+    "Input": {
+        "Title": "Sound Alert",
+        "ID": "",
+        "Source": "Message",
+        "Agent": "Chatter",
+        "Message": "",
+        "Point": 0,
+        "Spawn": 0
+    },
+    "Folder": "Sounds",
+    "Keys": [
+        {
+            "Cuts": [
+                "не",
+                "надо",
+                "лгать"
+            ]
+        },
+        {
+            "Cuts": [
+                "не",
+                "ври"
+            ]
+        }
+    ],
+    "Clips": [
+        {
+            "Volume": 0.8,
+            "Path": "ne-nado-lgat"
+        }
+    ]
+}
