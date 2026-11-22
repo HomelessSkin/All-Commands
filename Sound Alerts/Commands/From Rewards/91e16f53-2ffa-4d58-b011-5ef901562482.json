@@ -1,0 +1,29 @@
+{
+    "IsPublic": true,
+    "IsFinal": true,
+    "Priority": 0.0,
+    "Input": {
+        "Title": "Sound Alert",
+        "ID": "",
+        "Source": "this",
+        "Agent": "RU_1n",
+        "Message": "",
+        "Point": 0,
+        "Spawn": 0
+    },
+    "Folder": "Sounds/From Rewards",
+    "Keys": [
+        {
+            "Cuts": [
+                "резиновая",
+                "уточка"
+            ]
+        }
+    ],
+    "Clips": [
+        {
+            "Path": "91e16f53-2ffa-4d58-b011-5ef901562482",
+            "Volume": 0.4300000071525574
+        }
+    ]
+}
