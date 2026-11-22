@@ -1,0 +1,30 @@
+{
+    "IsPublic": true,
+    "IsFinal": true,
+    "Priority": 0.0,
+    "Input": {
+        "Title": "Sound Alert",
+        "ID": "",
+        "Source": "this",
+        "Agent": "HomelessSkin",
+        "Message": "",
+        "Point": 0,
+        "Spawn": 0
+    },
+    "Folder": "Sounds/From Rewards",
+    "Keys": [
+        {
+            "Cuts": [
+                "sponge",
+                "bob",
+                "fail"
+            ]
+        }
+    ],
+    "Clips": [
+        {
+            "Path": "5dc7850d-5a1c-453d-b6a1-73b2e5cca3f7",
+            "Volume": 0.3100000023841858
+        }
+    ]
+}

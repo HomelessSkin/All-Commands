@@ -1,0 +1,31 @@
+{
+    "IsPublic": true,
+    "IsFinal": true,
+    "Priority": 0.0,
+    "Input": {
+        "Title": "Sound Alert",
+        "ID": "",
+        "Source": "this",
+        "Agent": "jester_on_line",
+        "Message": "",
+        "Point": 0,
+        "Spawn": 0
+    },
+    "Folder": "Sounds/From Rewards",
+    "Keys": [
+        {
+            "Cuts": [
+                "доброе",
+                "утро",
+                "и",
+                "пока"
+            ]
+        }
+    ],
+    "Clips": [
+        {
+            "Path": "e981dc64-45b4-4c34-ad2b-08637d4c70f5",
+            "Volume": 1.0
+        }
+    ]
+}
