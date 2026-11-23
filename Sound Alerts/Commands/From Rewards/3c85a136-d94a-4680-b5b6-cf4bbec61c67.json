@@ -1,0 +1,29 @@
+{
+    "IsPublic": true,
+    "IsFinal": true,
+    "Priority": 0.0,
+    "Input": {
+        "Title": "Sound Alert",
+        "ID": "",
+        "Source": "this",
+        "Agent": "RU_1n",
+        "Message": "",
+        "Point": 0,
+        "Spawn": 0
+    },
+    "Folder": "Sounds/From Rewards",
+    "Keys": [
+        {
+            "Cuts": [
+                "сверчок",
+                "стрекочет"
+            ]
+        }
+    ],
+    "Clips": [
+        {
+            "Path": "3c85a136-d94a-4680-b5b6-cf4bbec61c67",
+            "Volume": 0.7900000214576721
+        }
+    ]
+}

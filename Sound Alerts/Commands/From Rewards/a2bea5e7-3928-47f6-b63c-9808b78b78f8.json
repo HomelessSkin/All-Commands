@@ -1,0 +1,30 @@
+{
+    "IsPublic": true,
+    "IsFinal": true,
+    "Priority": 0.0,
+    "Input": {
+        "Title": "Sound Alert",
+        "ID": "",
+        "Source": "this",
+        "Agent": "RU_1n",
+        "Message": "",
+        "Point": 0,
+        "Spawn": 0
+    },
+    "Folder": "Sounds/From Rewards",
+    "Keys": [
+        {
+            "Cuts": [
+                "oh",
+                "no",
+                "laugh"
+            ]
+        }
+    ],
+    "Clips": [
+        {
+            "Path": "a2bea5e7-3928-47f6-b63c-9808b78b78f8",
+            "Volume": 0.49000000953674316
+        }
+    ]
+}
